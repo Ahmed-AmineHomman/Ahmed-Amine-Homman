@@ -1,6 +1,6 @@
 👋 Hello everybody! 👋
 
-I'm @Ahmed-AmineHomman, a research project leader at @ClaraVista-IT.
+I'm @Ahmed-AmineHomman, a research project leader at ClaraVista.
 I previously worked as a Data Analyst at AddUp and did a PhD at Ecoles des Ponts ParisTech (Paris-Est University) in Applied Mathematics.
 You will find my full resume in my [LinkedIn profile](https://www.linkedin.com/in/ahmedaminehomman/).
 
