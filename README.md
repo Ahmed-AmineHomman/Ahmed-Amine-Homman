@@ -1,17 +1,18 @@
-👋 Hello everybody! 👋
+# 👋 Hello everyone! 👋
 
-I'm @Ahmed-AmineHomman, a research project leader at ClaraVista.
-I previously worked as a Data Analyst at AddUp and did a PhD at Ecoles des Ponts ParisTech (Paris-Est University) in Applied Mathematics.
-You will find my full resume in my [LinkedIn profile](https://www.linkedin.com/in/ahmedaminehomman/).
+I'm @Ahmed-AmineHomman, a research project leader at ClaraVista. My journey in the world of data and research began as a Data Analyst at AddUp, followed by a PhD in Applied Mathematics from Écoles des Ponts ParisTech (Paris-Est University). You can find my full resume on my [LinkedIn profile](https://www.linkedin.com/in/ahmedaminehomman/).
 
-During my PhD, I specialized in Molecular Simulation, where I wrote codes in C++ in order to perform simulations using the [Dissipative Particle Dynamics](https://en.wikipedia.org/wiki/Dissipative_particle_dynamics) model/
-You'll find the article resuming my PhD work [here](https://hal.archives-ouvertes.fr/hal-01180558).
-Since the end of my PhD, I switched to Data Science and Machine Learning using Python.
+During my PhD, I specialized in Molecular Simulation, developing C++ codes for simulations based on the [Dissipative Particle Dynamics](https://en.wikipedia.org/wiki/Dissipative_particle_dynamics) model. My PhD work is summarized in this [article](https://hal.archives-ouvertes.fr/hal-01180558).
 
-I'm interested in machine learning frameworks for usual marketing applications such as product recommendations, NLP and classification algorithms.
-I am also still interested in everything revolving around simulation, and particularly in my first love which is Molecular Simulation.
-In addition, I am also interested in the quite new Julia language, and I will try to learn a bit about this langage in order to improve in it.
+Since completing my PhD, I've transitioned to Data Science and Machine Learning, primarily using Python. My expertise includes machine learning frameworks for marketing applications such as product recommendations, natural language processing, and classification algorithms.
 
-Finally, if I can, I will gladly offer my help to any major scientific python library such as @scikit-learn or @statsmodels.
+In the past year, I have wholeheartedly embraced the advancements in Generative AI, gaining strong experience and specializing in this exciting field. This area has become my primary focus, and I am passionately exploring and contributing to the development of these innovative models.
 
-Take care, and welcome to my profile!
+Despite my shift to AI, my interest in molecular simulation remains strong, harking back to my foundational work in this area. I am also intrigued by the relatively new Julia programming language and aim to deepen my proficiency in it.
+
+Whenever possible, I am keen to contribute to major scientific Python libraries such as @scikit-learn and @statsmodels.
+
+Thank you for visiting my profile!
+
+Take care,
+Ahmed-Amine Homman
