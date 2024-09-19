@@ -6,7 +6,7 @@ During my PhD, I specialized in Molecular Simulation, developing C++ codes for s
 
 Since completing my PhD, I've transitioned to Data Science and Machine Learning, primarily using Python. My expertise includes machine learning frameworks for marketing applications such as product recommendations, natural language processing, and classification algorithms.
 
-In the past year, I have wholeheartedly embraced the advancements in Generative AI, gaining strong experience and specializing in this exciting field. This area has become my primary focus, and I am passionately exploring and contributing to the development of these innovative models.
+Since early 2023, I have wholeheartedly embraced the advancements in Generative AI, gaining strong experience and specializing in this exciting field. This area has become my primary focus, and I am passionately exploring and contributing to the development of these innovative models.
 
 Despite my shift to AI, my interest in molecular simulation remains strong, harking back to my foundational work in this area. I am also intrigued by the relatively new Julia programming language and aim to deepen my proficiency in it.
 
