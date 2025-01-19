@@ -1,12 +1,11 @@
 # 👋 Hello everyone! 👋
 
-I'm @Ahmed-AmineHomman, a research project leader at ClaraVista. My journey in the world of data and research began as a Data Analyst at AddUp, followed by a PhD in Applied Mathematics from Écoles des Ponts ParisTech (Paris-Est University). You can find my full resume on my [LinkedIn profile](https://www.linkedin.com/in/ahmedaminehomman/).
+I'm @Ahmed-AmineHomman, a research project leader with a PhD in Applied Mathematics from Écoles des Ponts ParisTech. Over the years, I have explored the fascinating intersections of Molecular Simulation, Data Science, and, more recently, Generative AI. From developing C++ codes for complex physical simulations to applying machine learning for marketing applications, my work reflects my passion for solving challenging problems through rigorous analysis and innovative technology.
 
-During my PhD, I specialized in Molecular Simulation, developing C++ codes for simulations based on the [Dissipative Particle Dynamics](https://en.wikipedia.org/wiki/Dissipative_particle_dynamics) model. My PhD work is summarized in this [article](https://hal.archives-ouvertes.fr/hal-01180558). Since completing my PhD, I've transitioned to Data Science and Machine Learning, primarily using Python. My expertise includes machine learning frameworks for marketing applications such as product recommendations, natural language processing, and classification algorithms.
+This space is a window into the experiments, insights, and technical reflections that define my journey as a researcher and developer. Here, you’ll find studies on generative AI models, deep dives into data-driven solutions, and explorations of cutting-edge tools and methodologies. My aim is to share knowledge that is practical and inspiring, whether you're a fellow researcher, a curious professional, or simply someone fascinated by the world of AI and modeling.
 
-Since early 2023, I have wholeheartedly embraced the advancements in Generative AI, gaining strong experience and specializing in this exciting field. This area has become my primary focus, and I am passionately exploring and contributing to the development of these innovative models.
+Since early 2023, I’ve focused extensively on Generative AI, an area I find both transformative and exciting. This blog allows me to document my learnings, share intriguing findings, and connect with others who share this enthusiasm. I hope to spark meaningful discussions and contribute to the growing community of researchers and practitioners in the field.
 
-Thank you for visiting my profile!
+Feel free to connect, ask questions, or share your thoughts: collaboration and dialogue are at the heart of progress. Together, let’s dive into the incredible world of science and technology! 🌟
 
-Take care,
-Ahmed-Amine Homman
+Welcome to my blog! 
