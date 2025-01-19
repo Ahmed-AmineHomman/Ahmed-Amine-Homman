@@ -12,7 +12,7 @@ Welcome to my blog!
 
 ## Links
 
-- :octocat: [Github](https://github.com/Ahmed-AmineHomman).
+- |:octocat:| [Github](https://github.com/Ahmed-AmineHomman).
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/ahmedaminehomman/).
 - :atom: [ResearchGate](https://www.researchgate.net/profile/Ahmed-Amine-Homman) (for information about my phd-related work).
 
