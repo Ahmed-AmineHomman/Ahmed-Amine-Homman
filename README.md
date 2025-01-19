@@ -8,4 +8,14 @@ Since early 2023, I’ve focused extensively on Generative AI, an area I find bo
 
 Feel free to connect, ask questions, or share your thoughts: collaboration and dialogue are at the heart of progress. Together, let’s dive into the incredible world of science and technology! 🌟
 
-Welcome to my blog! 
+Welcome to my blog!
+
+## Links
+
+- [Github](https://github.com/Ahmed-AmineHomman).
+- [LinkedIn](https://www.linkedin.com/in/ahmedaminehomman/).
+- [ResearchGate](https://www.researchgate.net/profile/Ahmed-Amine-Homman) (for information about my phd-related work).
+
+## Publications
+
+- [Et si on laissait l'IA faire notre travail ?](https://www.claravista.ai/blog/2023/10/10/et-si-on-laissait-lia-faire-notre-travail/).
