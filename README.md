@@ -18,7 +18,7 @@ Welcome to my blog!
 
 ## Publications
 
-- [2023 - Et si on laissait l'IA faire notre travail ?](publications/2023_ai_do_our_job).
+- [2023 - Et si on laissait l'IA faire notre travail ?](publications/2023_ai_do_our_job)
 
 ## Academic Work
 
