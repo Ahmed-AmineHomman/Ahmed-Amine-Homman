@@ -18,4 +18,4 @@ Welcome to my blog!
 
 ## Publications
 
-- [Et si on laissait l'IA faire notre travail ?](publications/ai_do_our_job.md).
+- [2023 - Et si on laissait l'IA faire notre travail ?](publications/ai_do_our_job.md).
