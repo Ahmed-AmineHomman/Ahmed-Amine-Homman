@@ -143,7 +143,7 @@ De plus, nous avons fixé la longueur maximale des réponses à 1024 tokens, ce 
 
 Enfin, lors de l'analyse des réponses de GPTx aux deux questions décrites dans la section ["Procédure expérimentale"](#procédure-expérimentale), nous avons adopté une coloration systématique des passages en fonction de leur exactitude : vert pour les affirmations correctes, rouge pour les inexactitudes, et jaune pour les éléments discutables ou non pertinents, sans nécessairement être incorrects.
 
-## Expérience 1 - GPT3.5
+## Expérience 1 \- GPT3.5
 
 Après avoir décrit avec attention la procédure expérimentale dans la section [Procédure expérimentale](#procédure-expérimentale), nous pouvons enfin passer aux résultats.
 
@@ -206,7 +206,7 @@ Cependant, un examen plus approfondi de ces réponses a révélé certaines erre
 
 Par conséquent, bien que GPT3.5 n'ait pas émis de recommandations erronées dans le cadre de nos expériences, il est important de reconnaître que l'utilisation de ce modèle dans un environnement de production, avec une série de tableaux de bord, comporte le risque qu'une de ses "hallucinations" puisse éventuellement biaiser son raisonnement et conduire à des recommandations incorrectes, basées sur des données ou des interprétations inexactes. Par conséquent, il est essentiel de maintenir la participation humaine dans le processus de décision et de faire appel à un expert du secteur pour vérifier les conclusions, afin de détecter d'éventuelles erreurs.
 
-Enfin, la question se pose : si GPT3.5 commet des erreurs, serait-ce le cas de son successeur, GPT4, qui est censé être plus puissant ? Après tout, [GPT4 serait conçu comme une collaboration entre 8 GPT3.5 spécialisés](https://x.com/swyx/status/1671272883379908608?s=20), et l'un d'entre eux pourrait être axé sur l'analyse des tableaux, ce qui réduirait le risque d'erreurs. Cette hypothèse mérite d'être explorée davantage \!
+Enfin, la question se pose : si GPT3.5 commet des erreurs, serait-ce le cas de son successeur, GPT4, qui est censé être plus puissant ? Après tout, [GPT4 serait conçu comme une collaboration entre 8 GPT3.5 spécialisés](https://x.com/swyx/status/1671272883379908608?s=20), et l'un d'entre eux pourrait être axé sur l'analyse des tableaux, ce qui réduirait le risque d'erreurs. Cette hypothèse mérite d'être explorée davantage !
 
 ## Expérience 2 \- GPT4
 
