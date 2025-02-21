@@ -19,3 +19,11 @@ Welcome to my blog!
 ## Publications
 
 - [2023 - Et si on laissait l'IA faire notre travail ?](publications/ai_do_our_job.md).
+
+## Academic Work
+
+- [2016 - PhD Thesis - Development of new numerical integration schemes for multiscale coarse-graining methods](https://theses.hal.science/tel-01343764v1)
+- [2016 - New Parallelizable Schemes for Integrating the Dissipative Particle Dynamics with Energy conservation](https://doi.org/10.1063/1.4937797)
+- [2015 - Error analysis of the transport properties of Metropolized schemes](https://doi.org/10.1051/proc/201448016)
+- [2013 - Calculation of the surface tension of liquid copper from atomistic Monte Carlo simulations](https://doi.org/10.1140/epjb/e2013-40226-9)
+- [2013 - Monte Carlo calculations of liquid metals surface tension](https://ui.adsabs.harvard.edu/abs/2013APS..SHK.M1094B/abstract)
