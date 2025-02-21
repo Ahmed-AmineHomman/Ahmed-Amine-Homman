@@ -14,7 +14,7 @@ Welcome to my blog!
 
 - 🛠️ [Github](https://github.com/Ahmed-AmineHomman).
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmedaminehomman/).
-- 📚 [ResearchGate](https://www.researchgate.net/profile/Ahmed-Amine-Homman) (for information about my phd-related work).
+- 📚 [ResearchGate](https://www.researchgate.net/profile/Ahmed-Amine-Homman)
 
 ## Publications
 
