@@ -18,4 +18,4 @@ Welcome to my blog!
 
 ## Publications
 
-- [Et si on laissait l'IA faire notre travail ?](https://www.claravista.ai/blog/2023/10/10/et-si-on-laissait-lia-faire-notre-travail/).
+- [Et si on laissait l'IA faire notre travail ?](publications/ai_do_our_job.md).
