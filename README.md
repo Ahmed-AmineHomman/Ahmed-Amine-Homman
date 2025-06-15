@@ -18,6 +18,7 @@ Welcome to my blog!
 
 ## Publications
 
+- [2025 - Analyse des résultats de la Course Populaire de l'édition 2025 de la Maisonnaise](https://www.canva.com/design/DAGpHPRbSto/pbVyAqPEIstqzkSQLmEAgw/view?utm_content=DAGpHPRbSto&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5de2155a1b)
 - [2025 - Aux Origines de l'IA Générative](https://www.linkedin.com/pulse/aux-origines-de-lia-g%C3%A9n%C3%A9rative-comprendre-ses-mod%C3%A8les-et-son-k2wie/)
 - [2023 - Et si on laissait l'IA faire notre travail ?](publications/2023_ai_do_our_job)
 
