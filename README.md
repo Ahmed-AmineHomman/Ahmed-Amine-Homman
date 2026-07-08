@@ -18,6 +18,8 @@ Welcome to my blog!
 
 ## Publications
 
+- [2026 - De la sycophantie des IAs, de leur assertivité, et surtout de mes talents de conteur](https://www.linkedin.com/pulse/de-la-sycophantie-des-ias-leur-assertivit%C3%A9-et-surtout-homman-russe)
+- [2026 - Petit panorama de l'IA Générative Chinoise](https://www.linkedin.com/pulse/petit-panorama-de-lia-g%C3%A9n%C3%A9rative-chinoise-ahmed-amine-homman-vnane)
 - [2025 - Empreinte carbone de l'IA : Mistral et Google affichent des chiffres aux antipodes](https://www.linkedin.com/pulse/empreinte-carbone-de-lia-mistral-et-google-affichent-des-homman-6ajbe/)
 - [2025 - Analyse des résultats de la Course Populaire de l'édition 2025 de la Maisonnaise](https://www.canva.com/design/DAGpHPRbSto/pbVyAqPEIstqzkSQLmEAgw/view?utm_content=DAGpHPRbSto&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5de2155a1b)
 - [2025 - Comment les LLMs ont-ils appris à parler](https://www.linkedin.com/pulse/comment-les-llms-ont-appris-%25C3%25A0-parler-claravista-wspse/)
